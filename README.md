@@ -22,6 +22,7 @@ EncryChat uses RSA encryption, using an asymmetric key which ensures greater sec
 2. The server decrypts the message, and to send to each customer, encrypts with each one's key and send to the respective customers.
 3. Submission completed
 
-## > All over the Tor network!
 
 These steps guarantee the security of the chat, making it almost impossible for someone outside the network to decrypt.
+
+## > All over the Tor network!
